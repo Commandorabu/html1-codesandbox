@@ -30,9 +30,7 @@ a:active{
     color: green;
 }
 
-a:visited{
-    
-}
+/*a:visited{}*/
 
 .container{
     width: 80%;
